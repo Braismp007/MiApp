@@ -1,16 +1,9 @@
-# app_flutter
+![git_banner_proyecto_2](https://github.com/Braismp007/MiApp/assets/90138396/50a52c01-7f9a-4542-889e-505822474ef8)
 
-A new Flutter project.
+----------------------
+![X (formerly Twitter) Follow](https://img.shields.io/twitter/follow/Braismp007)  ![GitHub Release](https://img.shields.io/github/v/release/Braismp007/MiApp)  ![GitHub repo size](https://img.shields.io/github/repo-size/Braismp007/MiApp)  ![GitHub commit activity](https://img.shields.io/github/commit-activity/w/Braismp007/MiApp)
+  ![GitHub issues](https://img.shields.io/github/issues/Braismp007/MiApp)
 
-## Getting Started
+En este proyecto voy a desarrollar una aplicación en el lenguaje de programación Dart y con la tecnología Flutter para compilar la app para móviles en Android e Ios.
 
-This project is a starting point for a Flutter application.
 
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
